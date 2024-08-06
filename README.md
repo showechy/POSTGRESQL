@@ -1,4 +1,3 @@
-```markdown
 # راهنمای جامع برای کار با PostgreSQL
 
 ## 1. اتصال به دیتابیس PostgreSQL
@@ -140,5 +139,4 @@ WHERE <condition>;
 UPDATE employees
 SET salary = 65000
 WHERE id = 1;
-```
 ```
